@@ -2,7 +2,7 @@
 - 👀 I’m interested in money
 - 🌱 I’m currently learning how to earn money
 - 💞️ I’m looking to collaborate on earning money
-- 📫 How to reach me...? You will never reach me, I reach you...
+- 📫 How to reach me...? leave money under the door mat, I reach you...
 
 <!---
 toddync/toddync is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
