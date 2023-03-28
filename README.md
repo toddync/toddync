@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @toddync
-- 👀 I’m interested in money
-- 🌱 I’m currently learning how to earn money
-- 💞️ I’m looking to collaborate on earning money
-- 📫 How to reach me...? leave money under the door mat, I reach you...
+- 👀 I’m interested in web dev as well as in BackEnd
+- 🌱 I’m currently learning how to make better web applications
+- 💞️ I’m looking to collaborate on learning more about coding and cryptography
+- 📫 How to reach me...? leave money under the door mat, I will reach you...
 
 <!---
 toddync/toddync is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
