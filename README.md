@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @toddync
-- 👀 I’m interested in web dev as well as in BackEnd
+- 👀 I’m interested in building games, APIs, sites and whatever i feel like coding
 - 🌱 I’m currently learning how to make better web applications
 - 💞️ I’m looking to collaborate on learning more about coding and cryptography
 - 📫 How to reach me...? leave money under the door mat, I will reach you...
