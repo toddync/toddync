@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @toddync
 - 👀 I’m interested in building games, APIs, sites and whatever i feel like coding
 - 🌱 I’m currently learning how to make better web applications
-- 💞️ I’m looking to collaborate on learning more about coding and cryptography
+- 💞️ I’m looking to collaborate on coding web applications using new tecnologies
 - 📫 How to reach me...? leave money under the door mat, I will reach you...
 
 <!---
